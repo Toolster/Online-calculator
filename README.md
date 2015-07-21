@@ -1,3 +1,2 @@
 # Online-calculator
-Basic online calculator
-[create an anchor](#anchors-in-markdown)
+Free basic [online calculator](http://toolster.net/basic_calculator)
